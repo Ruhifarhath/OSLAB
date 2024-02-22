@@ -1,0 +1,34 @@
+
+1.a) preemptive priority CPU scheduling algorithm.
+  b)contiguous and linked allocation of disk blocks to files.
+
+
+2.a) shortest job first CPU scheduling        
+       algorithm.
+  b) deadlock detection algorithms.
+
+
+3.a) round robin CPU scheduling algorithm.
+    b)Banker’s algorithm 
+
+
+4.a) LRU page replacement algorithm.
+     b) concept of conversion of logical address to physical address .
+
+
+5.a) FIFO page replacement algorithm.
+    b) preemptive priority CPU scheduling algorithm.
+
+
+6.a) First-fit and Best-fit memory management     
+      
+   b)  preemptive shortest job first CPU scheduling        
+       
+
+
+7.a) multi-level feedback queue scheduling.
+    b) round robin CPU scheduling algorithm.
+
+
+8.a)  SCAN disk scheduling algorithms.
+    b)LOOK disk scheduling algorithms.
